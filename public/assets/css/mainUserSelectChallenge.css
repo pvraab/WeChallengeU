@@ -1,0 +1,41 @@
+.jumbotron {
+    background: url(https://images.unsplash.com/photo-1471523835123-1172efe5eaa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background: black;
+}
+
+h1 {
+    color: white;
+    font-style: bold;
+    font-size: 300%;
+}
+
+p {
+    color: white;
+    font-style: bold;
+    font-size: 120%;
+}
+
+.container {
+    background: #212529;
+    color: #cc9900;
+    border-style: solid;
+    border-color: grey;
+}
+
+h5 {
+    color: #86592d;
+}
+
+tr:hover {
+    background: grey;
+}
+
+tbody:hover {
+    background: grey;
+}
